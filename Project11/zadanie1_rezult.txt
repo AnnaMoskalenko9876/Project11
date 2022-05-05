@@ -1,0 +1,4 @@
+aaaa entry appears and is replaced user-specified word.
+Result save to file.
+Change the text so that each time suggestion reader! with capital letters.
+Save the result to a file.
