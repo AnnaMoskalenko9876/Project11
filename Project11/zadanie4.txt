@@ -1,0 +1,4 @@
+Favo4rite entry app1ears and is 5replaced user-specified word.
+Result save to file2.
+Change the text so that each time suggestion rea4der! with capital l1etters.
+Save the result to a3 file.
